@@ -1,8 +1,20 @@
-layout_spectrum: 0.311828
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.07885305
 color:
   saturation: 0.6200717
+  brandStrength: 0
   lightness: 0.7168459
-  brandStrength: 0.4820789
   brandColors:
     - '#D7E1EA'
     - '#18181D'
@@ -10,5 +22,5 @@ color:
     - '#438954'
     - '#78879A'
   rhythmicContrast: 0.3189964
-typography_spectrum: 0.07885305
+layout_spectrum: 0.311828
 name: PhotoPractice
