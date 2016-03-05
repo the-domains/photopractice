@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4014337
 color:
   saturation: 0.6200717
   brandStrength: 0
@@ -22,5 +21,6 @@ color:
     - '#438954'
     - '#78879A'
   lightness: 0.7168459
-layout_spectrum: 0.4587814
+typography_spectrum: 0.4014337
+layout_spectrum: 1
 name: PhotoPractice
