@@ -1,0 +1,14 @@
+layout_spectrum: 0.311828
+color:
+  saturation: 0.6200717
+  lightness: 0.7168459
+  brandStrength: 0.4820789
+  brandColors:
+    - '#D7E1EA'
+    - '#18181D'
+    - '#B3D043'
+    - '#438954'
+    - '#78879A'
+  rhythmicContrast: 0.3189964
+typography_spectrum: 0.07885305
+name: PhotoPractice
