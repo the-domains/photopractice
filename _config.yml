@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4014337
 color:
   saturation: 0.6200717
   brandStrength: 0
-  lightness: 0.7168459
+  rhythmicContrast: 0.3189964
   brandColors:
     - '#D7E1EA'
     - '#18181D'
     - '#B3D043'
     - '#438954'
     - '#78879A'
-  rhythmicContrast: 0.3189964
-typography_spectrum: 0.4014337
-layout_spectrum: 0.311828
+  lightness: 0.7168459
+layout_spectrum: 0.4587814
 name: PhotoPractice
